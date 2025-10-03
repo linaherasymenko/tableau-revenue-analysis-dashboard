@@ -22,7 +22,8 @@ Retail dataset (orders, customers, products). Data was cleaned and prepared befo
 ---
 
 ### 📊 Preview
-![Dashboard Overview](assets/cover.png)
+![Dashboard Screenshot](assets/revenue.png)
+
 
 ---
 
