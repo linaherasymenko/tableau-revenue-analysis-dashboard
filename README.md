@@ -20,7 +20,7 @@ Retail dataset (orders, customers, products). Data was cleaned and prepared befo
 - Cohort analysis shows user revenue retention drops after 3–4 months.  
 
 ## 🖼️ Preview  
-![Dashboard Screenshot](assets/revenue.png)  
+![Dashboard Screenshot](revenue_new.png)  
 
 ## 🔗 Live Version  
 [View on Tableau Public](https://public.tableau.com/views/240912Herasymenko_17261687538730/RevenueAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
